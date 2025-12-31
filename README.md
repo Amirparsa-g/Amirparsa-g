@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I'm Parsa
 
-<!--
-**Amirparsa-g/Amirparsa-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at Amirkabir University of Technology  
+🐍 Python & Django Backend Developer  
+🌱 Currently learning Web Development  
+💼 Interested in Freelancing and Backend Projects  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Python
+- Django
+- HTML / CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- Build real-world Django projects
+- Start freelancing
+- Improve backend development skills
